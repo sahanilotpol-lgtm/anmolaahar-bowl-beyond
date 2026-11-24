@@ -12,4 +12,4 @@ Responsive front-end website prototype based on the supplied visual references. 
 
 ## WordPress / Elementor handoff
 
-This deliverable is a standalone front-end prototype, not a connected WordPress site or Elementor export. Its sections map cleanly to Elementor containers and reusable widgets: sticky header, hero, proof strip, menu grid, Why Choose Anmol Aahar benefits section, Build Your Healthy Habit section, ordering steps, delivery areas, and footer. The menu records and central WhatsApp setting are deliberately grouped in the script to make migration into editable WordPress fields straightforward.
+This deliverable is a standalone front-end prototype, not a connected WordPress site or Elementor export. Its sections map cleanly to Elementor containers and reusable widgets: sticky header, hero, proof strip, menu grid, Why Choose Anmol Aahar benefits section, Build Your Healthy Habit and Why We Started sections, ordering steps, delivery areas, and footer. The menu records and central WhatsApp setting are deliberately grouped in the script to make migration into editable WordPress fields straightforward.
