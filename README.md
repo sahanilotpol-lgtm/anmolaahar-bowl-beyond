@@ -1,6 +1,6 @@
 # AnmolAahar — Bowl & Beyond
 
-Responsive front-end website prototype based on the supplied visual references. Open `index.html` in a browser to preview it. It uses a premium green-and-cream palette, food-led sections, 24 illustrative menu items, veg/non-veg switching, and WhatsApp ordering links.
+Responsive front-end website prototype based on the supplied visual references. Open `index.html` in a browser to preview it. It uses a premium burgundy, gold, and cream palette, food-led sections, 24 illustrative menu items, veg/non-veg switching, and WhatsApp ordering links.
 
 ## Details to replace before launch
 
